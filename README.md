@@ -3,7 +3,7 @@ Olá 👋 Eu sou Jonatas Leite
 
 Trabalho na área de informática a mais de 15 anos, nesse período atendi empresas, órgãos públicos e clientes particulares. 
 Técnico de Manutenção e suporte em informatica, com experiencia em manutenção de computadores notebook e outros.
-Possuo conhecimentos em redes, configuração de equipamentos: roteador, Switch, modem, cabeamento e SO Mikrotik e Windows Server.
+Possuo conhecimentos em redes, configuração de equipamentos: roteador, Switch, modem, cabeamento e SO Windows Server e Mikrotik.
 No momento estou me dedicando a desenvolver habilidades na área de programação. 
 --------------------
 
