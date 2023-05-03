@@ -39,13 +39,13 @@ Programador & Contador
 
 ### Redes Sociais
 <p>
-    <a href="https://www.github.com/delmardelima" target="_blank" rel="noreferrer">
+    <a href="https://www.github.com/jonatasfsleite" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="http://www.instagram.com/delimadelmar" target="_blank" rel="noreferrer">
+    <a href="http://www.instagram.com/jonatasfernandoleite" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.youtube.com/c/@CortesDevOficial" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <a href="https://www.linkedin.com/in/jonatasfsleite" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </p>
