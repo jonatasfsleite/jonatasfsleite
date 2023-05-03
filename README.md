@@ -21,6 +21,9 @@ No momento estou me dedicando a desenvolver habilidades na área de programaçã
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
     </a>
+    <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+    </a>
 </p>
 
 #### Backend:
