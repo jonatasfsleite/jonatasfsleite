@@ -54,7 +54,7 @@ No momento, dedico-me a desenvolver habilidades na área de programação.
     <a href="mailto:jonatasfsleite@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="http://www.instagram.com/jonatasfsleite" target="_blank" rel="noreferrer">
+    <a href="https://www.instagram.com/jonatasfsleite" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://www.facebook.com/jonatasfsleite" target="_blank" rel="noreferrer">
