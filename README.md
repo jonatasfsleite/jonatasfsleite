@@ -57,7 +57,7 @@ No momento, dedico-me a desenvolver habilidades na área de programação.
     <a href="http://www.instagram.com/jonatasfsleite" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/jonatas.fernando.908" target="_blank" rel="noreferrer">
+    <a href="https://www.facebook.com/jonatasfsleite" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
 </p>
