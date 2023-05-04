@@ -48,6 +48,9 @@ No momento, dedico-me a desenvolver habilidades na área de programação.
     <a href="https://www.github.com/jonatasfsleite" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
+    <a href="https://www.linkedin.com/in/jonatasfsleite" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
     <a href="mailto:jonatasfsleite@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
@@ -56,8 +59,5 @@ No momento, dedico-me a desenvolver habilidades na área de programação.
     </a>
     <a href="https://www.facebook.com/jonatas.fernando.908" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/jonatasfsleite" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </p>
